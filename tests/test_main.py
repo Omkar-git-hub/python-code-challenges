@@ -1,6 +1,6 @@
-from main import add_two_numbers
+from main import subtract_two_numbers
 
-def test_add_two_numbers():
-    assert add_two_numbers(1, 2) == 3
-    assert add_two_numbers(-1, 1) == 0
-    assert add_two_numbers(-1, -1) == -2
+def test_subtract_two_numbers():
+    assert subtract_two_numbers(5, 3) == 2
+    assert subtract_two_numbers(-5, 3) == -8
+    assert subtract_two_numbers(-5, -3) == -2
