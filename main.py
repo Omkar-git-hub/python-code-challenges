@@ -1,17 +1,12 @@
-def divide(a, b):
-    """
-    Divide two numbers.
+def find_max(a, b):
+    """Return the maximum of two numbers."""
+    return max(a, b)
 
-    Args:
-        a (float): The dividend.
-        b (float): The divisor.
+def main():
+    num1 = 10
+    num2 = 20
+    max_num = find_max(num1, num2)
+    print(f"The maximum of {num1} and {num2} is {max_num}")
 
-    Returns:
-        float: The quotient.
-
-    Raises:
-        ZeroDivisionError: If the divisor is zero.
-    """
-    if b == 0:
-        raise ZeroDivisionError("Cannot divide by zero")
-    return a / b
+if __name__ == "__main__":
+    main()

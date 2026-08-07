@@ -1,12 +1,16 @@
-import pytest
-from main import divide
+import unittest
+from main import find_max
 
-def test_divide():
-    assert divide(10, 2) == 5
-    assert divide(-10, 2) == -5
-    assert divide(10, -2) == -5
-    assert divide(-10, -2) == 5
+class TestFindMax(unittest.TestCase):
+    def test_find_max(self):
+        self.assertEqual(find_max(10, 20), 20)
+        self.assertEqual(find_max(20, 10), 20)
+        self.assertEqual(find_max(10, 10), 10)
 
-def test_divide_by_zero():
-    with pytest.raises(ZeroDivisionError):
-        divide(10, 0)
+    def test_negative_numbers(self):
+        self.assertEqual(find_max(-10, 20), 20)
+        self.assertEqual(find_max(10, -20), 10)
+        self.assertEqual(find_max(-10, -20), -10)
+
+if __name__ == "__main__":
+    unittest.main()

@@ -6,9 +6,10 @@
         "Add Two Numbers",
         "Subtract Two Numbers",
         "Multiply Two Numbers",
-        "Divide Two Numbers"
+        "Divide Two Numbers",
+        "Find Maximum of Two Numbers"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 6
+    "project_progress": 7
 }
