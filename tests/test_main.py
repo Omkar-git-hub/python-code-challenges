@@ -1,6 +1,6 @@
-from main import subtract_two_numbers
+from main import multiply_two_numbers
 
-def test_subtract_two_numbers():
-    assert subtract_two_numbers(5, 3) == 2
-    assert subtract_two_numbers(-5, 3) == -8
-    assert subtract_two_numbers(-5, -3) == -2
+def test_multiply_two_numbers():
+    assert multiply_two_numbers(2, 3) == 6
+    assert multiply_two_numbers(-2, 3) == -6
+    assert multiply_two_numbers(0, 3) == 0

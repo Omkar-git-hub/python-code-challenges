@@ -4,9 +4,10 @@
         "Print Hello World",
         "Print Your Name",
         "Add Two Numbers",
-        "Subtract Two Numbers"
+        "Subtract Two Numbers",
+        "Multiply Two Numbers"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 4
+    "project_progress": 5
 }
