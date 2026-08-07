@@ -1,7 +1,9 @@
 {
     "current_day": 1,
-    "completed_tasks": [],
+    "completed_tasks": [
+        "Print Hello World"
+    ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 0
+    "project_progress": 1
 }

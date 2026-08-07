@@ -1,1 +1,1 @@
-pytest
+# No dependencies required for this task
