@@ -7,9 +7,10 @@
         "Subtract Two Numbers",
         "Multiply Two Numbers",
         "Divide Two Numbers",
-        "Find Maximum of Two Numbers"
+        "Find Maximum of Two Numbers",
+        "Swap Two Variables"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 7
+    "project_progress": 8
 }

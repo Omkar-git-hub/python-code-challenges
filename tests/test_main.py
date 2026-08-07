@@ -1,16 +1,13 @@
 import unittest
-from main import find_max
+from main import swap_variables
 
-class TestFindMax(unittest.TestCase):
-    def test_find_max(self):
-        self.assertEqual(find_max(10, 20), 20)
-        self.assertEqual(find_max(20, 10), 20)
-        self.assertEqual(find_max(10, 10), 10)
-
-    def test_negative_numbers(self):
-        self.assertEqual(find_max(-10, 20), 20)
-        self.assertEqual(find_max(10, -20), 10)
-        self.assertEqual(find_max(-10, -20), -10)
+class TestSwapVariables(unittest.TestCase):
+    def test_swap(self):
+        a = 5
+        b = 10
+        swapped_a, swapped_b = swap_variables(a, b)
+        self.assertEqual(swapped_a, b)
+        self.assertEqual(swapped_b, a)
 
 if __name__ == "__main__":
     unittest.main()
