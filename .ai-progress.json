@@ -9,9 +9,10 @@
         "Divide Two Numbers",
         "Find Maximum of Two Numbers",
         "Swap Two Variables",
-        "Check Even or Odd"
+        "Check Even or Odd",
+        "Check Positive or Negative"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 9
+    "project_progress": 10
 }
