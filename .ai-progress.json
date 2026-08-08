@@ -8,9 +8,10 @@
         "Multiply Two Numbers",
         "Divide Two Numbers",
         "Find Maximum of Two Numbers",
-        "Swap Two Variables"
+        "Swap Two Variables",
+        "Check Even or Odd"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 8
+    "project_progress": 9
 }
