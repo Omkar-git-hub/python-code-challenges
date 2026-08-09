@@ -14,9 +14,10 @@
         "Find Largest of Three Numbers",
         "Calculate Factorial",
         "Generate Fibonacci Series",
-        "Check Prime Number"
+        "Check Prime Number",
+        "Find Square Root of a Number"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 14
+    "project_progress": 15
 }
