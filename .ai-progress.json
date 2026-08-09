@@ -12,9 +12,10 @@
         "Check Even or Odd",
         "Check Positive or Negative",
         "Find Largest of Three Numbers",
-        "Calculate Factorial"
+        "Calculate Factorial",
+        "Generate Fibonacci Series"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 12
+    "project_progress": 13
 }
