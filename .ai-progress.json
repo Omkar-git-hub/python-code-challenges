@@ -13,9 +13,10 @@
         "Check Positive or Negative",
         "Find Largest of Three Numbers",
         "Calculate Factorial",
-        "Generate Fibonacci Series"
+        "Generate Fibonacci Series",
+        "Check Prime Number"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 13
+    "project_progress": 14
 }
