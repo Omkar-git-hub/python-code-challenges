@@ -16,9 +16,10 @@
         "Generate Fibonacci Series",
         "Check Prime Number",
         "Find Square Root of a Number",
-        "Reverse a String"
+        "Reverse a String",
+        "Check Palindrome String"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 16
+    "project_progress": 17
 }
