@@ -1,0 +1,25 @@
+{
+    "current_day": 6,
+    "completed_tasks": [
+        "Print Hello World",
+        "Print Your Name",
+        "Add Two Numbers",
+        "Subtract Two Numbers",
+        "Multiply Two Numbers",
+        "Divide Two Numbers",
+        "Find Maximum of Two Numbers",
+        "Swap Two Variables",
+        "Check Even or Odd",
+        "Check Positive or Negative",
+        "Find Largest of Three Numbers",
+        "Calculate Factorial",
+        "Generate Fibonacci Series",
+        "Check Prime Number",
+        "Find Square Root of a Number",
+        "Reverse a String",
+        "Check Palindrome String"
+    ],
+    "completed_commits": 0,
+    "last_commit": "",
+    "project_progress": 17
+}
