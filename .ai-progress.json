@@ -18,9 +18,10 @@
         "Find Square Root of a Number",
         "Reverse a String",
         "Check Palindrome String",
-        "Count Vowels in a String"
+        "Count Vowels in a String",
+        "Sum of List Elements"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 18
+    "project_progress": 19
 }

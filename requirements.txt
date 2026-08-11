@@ -1,1 +1,1 @@
-# No changes needed, as this task does not require any additional dependencies.
+# No changes needed, as the task does not require any new dependencies.
