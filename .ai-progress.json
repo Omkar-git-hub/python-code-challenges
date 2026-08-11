@@ -19,9 +19,10 @@
         "Reverse a String",
         "Check Palindrome String",
         "Count Vowels in a String",
-        "Sum of List Elements"
+        "Sum of List Elements",
+        "Find Largest Element in a List"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 19
+    "project_progress": 20
 }
