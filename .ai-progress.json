@@ -1,5 +1,5 @@
 {
-    "current_day": 7,
+    "current_day": 8,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -20,9 +20,10 @@
         "Check Palindrome String",
         "Count Vowels in a String",
         "Sum of List Elements",
-        "Find Largest Element in a List"
+        "Find Largest Element in a List",
+        "Remove Duplicate Elements from a List"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 20
+    "project_progress": 21
 }
