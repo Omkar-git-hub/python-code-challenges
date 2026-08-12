@@ -1,1 +1,1 @@
-# No changes needed, as the task does not require any new dependencies.
+# No changes needed, the required functionality can be achieved with the Python standard library.
