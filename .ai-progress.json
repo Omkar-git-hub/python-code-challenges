@@ -23,9 +23,10 @@
         "Find Largest Element in a List",
         "Remove Duplicate Elements from a List",
         "Sort a List",
-        "Find Second Largest Number"
+        "Find Second Largest Number",
+        "Calculate Average of List Elements"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 23
+    "project_progress": 24
 }

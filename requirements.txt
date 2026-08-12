@@ -1,1 +1,1 @@
-# No changes needed for this task.
+# No changes needed, the required functionality can be achieved with the Python standard library.
