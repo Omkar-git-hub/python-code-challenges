@@ -25,9 +25,10 @@
         "Sort a List",
         "Find Second Largest Number",
         "Calculate Average of List Elements",
-        "Read a Text File"
+        "Read a Text File",
+        "Write to a Text File"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 25
+    "project_progress": 26
 }
