@@ -27,9 +27,10 @@
         "Calculate Average of List Elements",
         "Read a Text File",
         "Write to a Text File",
-        "Count Words in a Text File"
+        "Count Words in a Text File",
+        "Generate a Random Number"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 27
+    "project_progress": 28
 }
