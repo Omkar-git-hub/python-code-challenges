@@ -1,5 +1,5 @@
 {
-    "current_day": 9,
+    "current_day": 10,
     "completed_tasks": [
         "Print Hello World",
         "Print Your Name",
@@ -26,9 +26,10 @@
         "Find Second Largest Number",
         "Calculate Average of List Elements",
         "Read a Text File",
-        "Write to a Text File"
+        "Write to a Text File",
+        "Count Words in a Text File"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 26
+    "project_progress": 27
 }
