@@ -1,13 +1,22 @@
-import unittest
-from main import swap_variables
+from main import swap_variables, add, subtract, multiply, divide
 
-class TestSwapVariables(unittest.TestCase):
-    def test_swap(self):
-        a = 5
-        b = 10
-        swapped_a, swapped_b = swap_variables(a, b)
-        self.assertEqual(swapped_a, b)
-        self.assertEqual(swapped_b, a)
+def test_swap_variables():
+    assert swap_variables(1, 2) == (2, 1)
 
-if __name__ == "__main__":
-    unittest.main()
+def test_add():
+    assert add(1, 2) == 3
+
+def test_subtract():
+    assert subtract(2, 1) == 1
+
+def test_multiply():
+    assert multiply(2, 3) == 6
+
+def test_divide():
+    assert divide(4, 2) == 2
+
+    try:
+        divide(4, 0)
+        assert False, "Expected ZeroDivisionError"
+    except ZeroDivisionError as e:
+        assert str(e) == "Cannot divide by zero"

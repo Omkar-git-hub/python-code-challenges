@@ -28,9 +28,10 @@
         "Read a Text File",
         "Write to a Text File",
         "Count Words in a Text File",
-        "Generate a Random Number"
+        "Generate a Random Number",
+        "Build a Simple Calculator"
     ],
     "completed_commits": 0,
     "last_commit": "",
-    "project_progress": 28
+    "project_progress": 29
 }
